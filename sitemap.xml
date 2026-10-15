@@ -4,7 +4,32 @@
 
   <url>
        <loc>https://www.bhaktaniwasakkalkot.com/</loc>
-       <lastmod>2026-10-14T09:33:49+00:00</lastmod>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
        <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://www.bhaktaniwasakkalkot.com/about-us.html</loc>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.bhaktaniwasakkalkot.com/room-details.html</loc>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.bhaktaniwasakkalkot.com/gallery.html</loc>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.bhaktaniwasakkalkot.com/nearby-places.html</loc>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.bhaktaniwasakkalkot.com/contact-us.html</loc>
+       <lastmod>2026-10-15T07:11:15+00:00</lastmod>
+       <priority>0.8000</priority>
   </url>
 </urlset>
